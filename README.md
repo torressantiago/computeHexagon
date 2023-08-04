@@ -1,0 +1,2 @@
+# computeHexagon
+This recalculates Hexagons
